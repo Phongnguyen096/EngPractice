@@ -2,3 +2,4 @@ Backend/env
 Backend/**/.pytest_cache*/
 Backend/**/__pycache__
 Backend/**/db.sqlite3
+.env
